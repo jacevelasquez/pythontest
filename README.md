@@ -1,6 +1,6 @@
 # pythontest
 **Python exercise**
-Create an address book application where API users can create, update and deleteaddresses.
+Create an address book application where API users can create, update and delete addresses.
 The address should:- contain the coordinates of the address.- be saved to an SQLite database.- be validated
 API Users should also be able to retrieve the addresses that are within a given distance and location coordinates.
 
@@ -30,7 +30,7 @@ API Users should also be able to retrieve the addresses that are within a given 
    
 ![image](https://github.com/jacevelasquez/pythontest/assets/44248245/2e760c84-ce08-4c2d-b9ab-24c3b8467391)
 
-3. Select any of the requests to test
+3. Select any of the requests to test and hit Send request button
 
 ![image](https://github.com/jacevelasquez/pythontest/assets/44248245/af06153e-de1a-4aed-8c8c-882f04e14e7e)
 3.1 Request Selection
